@@ -8,7 +8,7 @@ import Home from './components/Home/Home/Home';
 import Service from './components/Service/Service/Service';
 import Dashboard from './components/Dashboard/Dashboard/Dashboard';
 import Login from './components/Login/Login/Login';
-import Login from './components/Admin/Admin/Admin';
+import Admin from './components/Admin/Admin/Admin';
 import PrivateRoute from "./components/Login/PrivateRoute/PrivateRoute";
 
 
